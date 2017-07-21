@@ -7,6 +7,7 @@
 ### Home
 
 - [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather condiions and forecasts using the OpenWeatherMap API.
+- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Constrol of Philips Hue lights.
 - [snipssmartercoffee](https://github.com/snipsco/snips-skill-smartercoffee) - :coffee: Brew coffee with a Smarter Coffee machine.
 
