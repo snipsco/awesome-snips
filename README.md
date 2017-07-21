@@ -6,7 +6,8 @@
 
 ### Home
 
-- [OpenWeatherMap](https://github.com/snipsco/snips-skill-weather) - Weather assistant using the OpenWeatherMap API.
+- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather condiions and forecasts using the OpenWeatherMap API.
+- [snipshue](https://github.com/snipsco/snips-skill-hue) - Constrol of Philips Hue lights.
 
 ## Resources
 
