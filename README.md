@@ -4,17 +4,22 @@
 
 ## Skills
 
-### Home
+### Home Automation
 
 - [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather condiions and forecasts using the OpenWeatherMap API.
 - [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Constrol of Philips Hue lights.
 - [snipssmartercoffee](https://github.com/snipsco/snips-skill-smartercoffee) - :coffee: Brew coffee with a Smarter Coffee machine.
 
+### Entertainment
+
+- [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Local music player.
+
 ## Resources
 
 ### Tutorials
 
+- [Let's build a Snips assistant](https://github.com/snipsco/snips-assistant-bootstrap) - How to setup Snips on a Raspberry Pi
 - [Snips Raspberry Pi](https://github.com/snipsco/snips-skill-weather) - How to setup Snips on a Raspberry Pi
 - [Microphone Array Guide](https://github.com/snipsco/snips-skill-weather) - A guide and thorough benchmark of microphone arrays
 - [Spkr](https://github.com/snipsco/snips-skill-weather) - Build your own voice-controller speaker which is Private By Design
