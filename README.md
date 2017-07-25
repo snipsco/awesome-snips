@@ -2,6 +2,20 @@
 
 > A curated list of awesome [skills](#skills) for the [Snips Voice Platform](https://www.snips.ai/).
 
+### Contributing
+
+Contribution guidelines can be found [here](/CONTRIBUTING.md).
+
+### Contents
+
+- [Skills](#skills)
+  - [Home Automation](#home-automation)
+  - [Entertainment](#entertainment)
+- [Resources](#resources)
+  - [Official Guides](#official-guides)
+  - [Videos](#videos)
+  - [Community](#community)
+
 ## Skills
 
 ### Home Automation
@@ -18,7 +32,7 @@
 
 ## Resources
 
-### Tutorials
+### Official Guides
 
 - [Let's build a Snips assistant](https://github.com/snipsco/snips-assistant-bootstrap) - How to setup Snips on a Raspberry Pi
 - [Snips Raspberry Pi](https://github.com/snipsco/snips-skill-weather) - How to setup Snips on a Raspberry Pi
@@ -35,10 +49,6 @@
 - [Slack](https://snipslabs.herokuapp.com/)
 - [Twitter](https://twitter.com/snips)
 - [Github](https://github.com/snipsco/)
-
-### Contributing
-
-Contribution guidelines can be found [here](/CONTRIBUTING.md).
 
 ### License
 
