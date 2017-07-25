@@ -2,10 +2,6 @@
 
 > A curated list of awesome [skills](#skills) for the [Snips Voice Platform](https://www.snips.ai/).
 
-### Contributing
-
-Contribution guidelines can be found [here](/CONTRIBUTING.md).
-
 ### Contents
 
 - [Skills](#skills)
@@ -15,6 +11,8 @@ Contribution guidelines can be found [here](/CONTRIBUTING.md).
   - [Official Guides](#official-guides)
   - [Videos](#videos)
   - [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Skills
 
@@ -50,6 +48,10 @@ Contribution guidelines can be found [here](/CONTRIBUTING.md).
 - [Twitter](https://twitter.com/snips)
 - [Github](https://github.com/snipsco/)
 
-### License
+## Contributing
+
+Contribution guidelines can be found [here](/CONTRIBUTING.md).
+
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
