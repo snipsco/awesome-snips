@@ -7,6 +7,8 @@
 - [Skills](#skills)
   - [Home Automation](#home-automation)
   - [Entertainment](#entertainment)
+- [Assistants](#assistants)
+- [Tools](#tools)
 - [Resources](#resources)
   - [Official Guides](#official-guides)
   - [Videos](#videos)
@@ -26,6 +28,14 @@
 ### Entertainment
 
 - [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database.
+
+## Assistants
+
+- [snipsweatherassistant](https://github.com/snipsco/snips-weather-assistant) - A weather assistant in multiple languages.
+
+## Tools
+
+- [snipsskills](https://github.com/snipsco/snipsskills) - The Snips Skills Manager.
 
 ## Resources
 
