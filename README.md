@@ -42,6 +42,7 @@
 ### Official Guides
 
 - [Let's build a Snips assistant](https://github.com/snipsco/snips-assistant-bootstrap) - How to setup Snips on a Raspberry Pi
+- [The Snipsfile](https://github.com/snipsco/snipsskills/wiki/The-Snipsfile) - A walkthrough of the Snipfile
 - [Snips Raspberry Pi](https://github.com/snipsco/snips-skill-weather) - How to setup Snips on a Raspberry Pi
 - [Microphone Array Guide](https://github.com/snipsco/snips-skill-weather) - A guide and thorough benchmark of microphone arrays
 - [Spkr](https://github.com/snipsco/snips-skill-weather) - Build your own voice-controller speaker which is Private By Design
