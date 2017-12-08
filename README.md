@@ -34,13 +34,14 @@
 
 - [snipsweatherassistant](https://github.com/snipsco/snips-weather-assistant) - A weather assistant in multiple languages.
 
-## Customisations
-
-- [Snips with custom hotwords using Snowboy](https://github.com/oziee/hotword)
-
 ## Tools
 
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager.
+
+## Customisations
+
+- [Snips Home Assistant component](https://home-assistant.io/components/snips/)
+- [Snips with custom hotwords using Snowboy](https://github.com/oziee/hotword)
 
 ## Resources
 
@@ -49,6 +50,7 @@
 - [Microphone Array Benchmark](https://medium.com/snips-ai/benchmarking-microphone-arrays-respeaker-conexant-microsemi-acuedge-matrix-creator-minidsp-950de8876fda) - A guide and thorough benchmark of microphone arrays.
 - [Spkr](https://medium.com/snips-ai/how-to-build-a-voice-controlled-speaker-that-protects-your-privacy-ec6429a2c673) - Build your own voice-controller speaker which is Private By Design.
 - [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
+- [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
 
 ### Videos
 
