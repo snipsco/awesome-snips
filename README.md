@@ -40,15 +40,17 @@
 
 ## Resources
 
-### Official Guides
+### Guides
 
 - [Microphone Array Benchmark](https://medium.com/snips-ai/benchmarking-microphone-arrays-respeaker-conexant-microsemi-acuedge-matrix-creator-minidsp-950de8876fda) - A guide and thorough benchmark of microphone arrays.
 - [Spkr](https://medium.com/snips-ai/how-to-build-a-voice-controlled-speaker-that-protects-your-privacy-ec6429a2c673) - Build your own voice-controller speaker which is Private By Design.
+- [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
 
 ### Videos
 
 - [The Snips Voice Platform](https://vimeo.com/221451347)
 - [Step-by-step Guide to Creating a Snips Assistant](https://vimeo.com/223255884)
+- [Snips Sonos demo](https://vimeo.com/237742054)
 
 ### Community
 
