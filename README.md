@@ -40,8 +40,8 @@
 
 ## Customisations
 
-- [Snips Home Assistant component](https://home-assistant.io/components/snips/)
-- [Snips with custom hotwords using Snowboy](https://github.com/oziee/hotword)
+- [Home Assistant component](https://home-assistant.io/components/snips/)
+- [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
 
 ## Resources
 
@@ -56,7 +56,7 @@
 
 - [The Snips Voice Platform](https://vimeo.com/221451347)
 - [Step-by-step Guide to Creating a Snips Assistant](https://vimeo.com/223255884)
-- [Snips Sonos demo](https://vimeo.com/237742054)
+- [Sonos demo](https://vimeo.com/237742054)
 
 ### Community
 
