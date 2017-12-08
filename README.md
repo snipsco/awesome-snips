@@ -34,6 +34,10 @@
 
 - [snipsweatherassistant](https://github.com/snipsco/snips-weather-assistant) - A weather assistant in multiple languages.
 
+## Customisations
+
+- [Snips with custom hotwords using Snowboy](https://github.com/oziee/hotword)
+
 ## Tools
 
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager.
