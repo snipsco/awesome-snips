@@ -30,10 +30,6 @@
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Play music on a Sonos system
 - [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database.
 
-## Assistants
-
-- [snipsweatherassistant](https://github.com/snipsco/snips-weather-assistant) - A weather assistant in multiple languages.
-
 ## Tools
 
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager.
