@@ -56,7 +56,7 @@
 
 ### Community
 
-- [Slack](https://snipslabs.herokuapp.com/)
+- [Discord](https://discord.gg/3939Kqx)
 - [Twitter](https://twitter.com/snips)
 - [Github](https://github.com/snipsco/)
 
