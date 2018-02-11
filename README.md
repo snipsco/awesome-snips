@@ -28,7 +28,7 @@
 
 ### Entertainment
 
-- [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Play music on a Sonos system
+- [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database.
 
 ## Tools
