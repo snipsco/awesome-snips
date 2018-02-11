@@ -43,7 +43,7 @@
 
 ### Community Projects
 
-- [https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/](Project Alice – Raspberry voice controlled Velux)
+- [Project Alice – Raspberry voice controlled Velux](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/)
 
 ### Guides
 
