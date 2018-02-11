@@ -29,7 +29,8 @@
 ### Entertainment
 
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
-- [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database.
+- [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database
+- [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 
 ## Tools
 
