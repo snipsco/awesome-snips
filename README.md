@@ -41,6 +41,10 @@
 
 ## Resources
 
+### Community Projects
+
+- [https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/](Project Alice – Raspberry voice controlled Velux)
+
 ### Guides
 
 - [Microphone Array Benchmark](https://medium.com/snips-ai/benchmarking-microphone-arrays-respeaker-conexant-microsemi-acuedge-matrix-creator-minidsp-950de8876fda) - A guide and thorough benchmark of microphone arrays.
