@@ -1,6 +1,6 @@
 # Awesome Snips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [skills](#skills), [assistants](#assistants), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
+> A curated list of awesome [skills](#skills), [customisations](#customisations), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
 
 ### Contents
 
