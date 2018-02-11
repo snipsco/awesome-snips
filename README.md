@@ -43,12 +43,12 @@
 
 ### Community Projects
 
-- [Project Alice – Raspberry voice controlled Velux](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/)
+- [Project Alice](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - Raspberry voice controlled Velux
 
 ### Guides
 
-- [Microphone Array Benchmark](https://medium.com/snips-ai/benchmarking-microphone-arrays-respeaker-conexant-microsemi-acuedge-matrix-creator-minidsp-950de8876fda) - A guide and thorough benchmark of microphone arrays.
-- [Spkr](https://medium.com/snips-ai/how-to-build-a-voice-controlled-speaker-that-protects-your-privacy-ec6429a2c673) - Build your own voice-controller speaker which is Private By Design.
+- [Microphone Array Benchmark](https://medium.com/snips-ai/benchmarking-microphone-arrays-respeaker-conexant-microsemi-acuedge-matrix-creator-minidsp-950de8876fda) - A guide and thorough benchmark of microphone arrays
+- [Spkr](https://medium.com/snips-ai/how-to-build-a-voice-controlled-speaker-that-protects-your-privacy-ec6429a2c673) - Build your own voice-controller speaker which is Private By Design
 - [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
 - [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
 
