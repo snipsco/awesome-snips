@@ -45,7 +45,7 @@
 
 ### Community Projects
 
-- [Project Alice](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - [source code](https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
+- [Project Alice](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) ([source code])(https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
 
 ### Guides
 
