@@ -34,7 +34,7 @@
 
 ## Tools
 
-- [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager.
+- [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
 
 ## Customisations
 
