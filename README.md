@@ -47,6 +47,7 @@
 
 - [Project Alice](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - [source code](https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
 - [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
+- [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/): change the language of your voice assistant just by asking it
 - [Taspterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
 
 ### Guides
