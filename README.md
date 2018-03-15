@@ -24,12 +24,10 @@
 - [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
 - [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Constrol of Philips Hue lights.
-- [snipssmartercoffee](https://github.com/snipsco/snips-skill-smartercoffee) - :coffee: Brew coffee with a Smarter Coffee machine.
 
 ### Entertainment
 
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
-- [snipslocalmusic](https://github.com/snipsco/snips-skill-localmusic) - Play music from a local database
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 
 ## Tools
