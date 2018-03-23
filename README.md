@@ -29,6 +29,7 @@
 
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
+- [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
 
 ## Tools
 
