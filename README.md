@@ -44,7 +44,7 @@
 
 ### Community Projects
 
-- [Velux control](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) -Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/) [source code](https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
+- [Velux control](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/) - Raspberry voice controlled Velux ([source code](https://github.com/Psychokiller1888/snipsvelux))
 - [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
 - [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it
 - [Multi slots support](https://laurentchervet.wordpress.com/2018/04/01/project-alice-multi-slots-support/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): easy way for Snips to understand more than once the same slot
