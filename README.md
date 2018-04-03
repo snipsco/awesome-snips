@@ -44,9 +44,11 @@
 
 ### Community Projects
 
-- [Project Alice](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - [source code](https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
-- [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
-- [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/): change the language of your voice assistant just by asking it
+- [Velux control](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) -Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/) [source code](https://github.com/Psychokiller1888/snipsvelux) - Raspberry voice controlled Velux
+- [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
+- [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it
+- [Multi slots support](https://laurentchervet.wordpress.com/2018/04/01/project-alice-multi-slots-support/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): easy way for Snips to understand more than once the same slot
+- [Arbitrary text support](https://laurentchervet.wordpress.com/2018/03/08/project-alice-arbitrary-text/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): capturing arbitrary text made easy
 - [Taspterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
 
 ### Guides
