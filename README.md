@@ -46,9 +46,10 @@
 
 - [Velux control](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): Raspberry voice controlled Velux ([source code](https://github.com/Psychokiller1888/snipsvelux))
 - [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
-- [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it
+- [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it ([source code](https://github.com/Psychokiller1888/snipslanghotswap))
 - [Multi slots support](https://laurentchervet.wordpress.com/2018/04/01/project-alice-multi-slots-support/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): easy way for Snips to understand more than once the same slot
 - [Arbitrary text support](https://laurentchervet.wordpress.com/2018/03/08/project-alice-arbitrary-text/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): capturing arbitrary text made easy
+- [Custom Hotword support](https://laurentchervet.wordpress.com/2018/02/28/project-alice-born-from-the-ashes-of-jarvis/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): Another way to change the wake word of Snips ([source code](https://github.com/Psychokiller1888/snips-custom-hotword))
 - [Tapsterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
 
 ### Guides
