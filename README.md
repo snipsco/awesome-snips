@@ -23,7 +23,7 @@
 
 - [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
 - [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
-- [snipshue](https://github.com/snipsco/snips-skill-hue) - Constrol of Philips Hue lights.
+- [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights.
 
 ### Entertainment
 
@@ -49,7 +49,7 @@
 - [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it
 - [Multi slots support](https://laurentchervet.wordpress.com/2018/04/01/project-alice-multi-slots-support/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): easy way for Snips to understand more than once the same slot
 - [Arbitrary text support](https://laurentchervet.wordpress.com/2018/03/08/project-alice-arbitrary-text/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): capturing arbitrary text made easy
-- [Taspterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
+- [Tapsterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
 
 ### Guides
 
