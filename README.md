@@ -34,11 +34,15 @@
 ## Tools
 
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
+- [satConnect](https://github.com/Psychokiller1888/satConnect) - To easily add satellites to your main unit
+- [snipsWebAdmin](https://github.com/oziee/snipsWebAdmin) - Web based administrative system for Snips devices
 
 ## Customisations
 
 - [Home Assistant component](https://home-assistant.io/components/snips/)
 - [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
+- [Amazon polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh)
+- [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
 
 ## Resources
 
@@ -48,7 +52,7 @@
 - [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
 - [Language Hotswap](https://laurentchervet.wordpress.com/2018/03/04/project-alice-language-hotswap/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): change the language of your voice assistant just by asking it ([source code](https://github.com/Psychokiller1888/snipslanghotswap))
 - [Multi slots support](https://laurentchervet.wordpress.com/2018/04/01/project-alice-multi-slots-support/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): easy way for Snips to understand more than once the same slot
-- [Arbitrary text support](https://laurentchervet.wordpress.com/2018/03/08/project-alice-arbitrary-text/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): capturing arbitrary text made easy
+- [Arbitrary text support](https://laurentchervet.wordpress.com/2018/03/08/project-alice-arbitrary-text/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): capturing arbitrary text made easy ([source code](https://github.com/Psychokiller1888/SnipsArbitraryTextCapture))
 - [Custom Hotword support](https://laurentchervet.wordpress.com/2018/02/28/project-alice-born-from-the-ashes-of-jarvis/) - Part of [Project Alice](https://laurentchervet.wordpress.com/category/project-alice/): Another way to change the wake word of Snips ([source code](https://github.com/Psychokiller1888/snips-custom-hotword))
 - [Tapsterbot](https://github.com/pylapp/tapsterbot) - Open-source and open-hardware robot for automated mobile app testing
 
@@ -58,6 +62,7 @@
 - [Spkr](https://medium.com/snips-ai/how-to-build-a-voice-controlled-speaker-that-protects-your-privacy-ec6429a2c673) - Build your own voice-controller speaker which is Private By Design
 - [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
 - [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
+- [Sonos Invader](https://github.com/Psychokiller1888/SnipsSonosInvader) - Use your existing sound hardware to have the best Snips audio quality while keeping offline and protecting your privacy
 
 ### Videos
 
@@ -67,6 +72,7 @@
 - [Velux demo](https://www.youtube.com/watch?v=ukkOLqcm2CY)
 - [Parrot Bebop](https://www.youtube.com/watch?v=GNpz7S0B6Gs)
 - [Game of Zork](https://www.youtube.com/watch?v=5RX4Dm9TmCY)
+- [Cook with Snips](https://www.youtube.com/watch?v=xH_JE4mj9vI)
 
 ### Community
 
