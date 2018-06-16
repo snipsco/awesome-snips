@@ -42,7 +42,7 @@
 - [Home Assistant component](https://home-assistant.io/components/snips/)
 - [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
 - [Amazon polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh)
-- [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
+- [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds) (not needed since [0.56.4](https://snips.gitbook.io/documentation/release-notes#0-56-4) introduced `sound_feedback_enabled_default` in `snips.toml`).
 
 ## Resources
 
