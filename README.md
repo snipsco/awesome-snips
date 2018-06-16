@@ -21,8 +21,6 @@
 
 ### Home Automation
 
-- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
-- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights.
 
 ### Entertainment
@@ -30,6 +28,11 @@
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
+
+### Informational
+- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
+- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
+- [overhead](https://github.com/hcooper/overhead) - What's flying overhead? Retrieve information about nearby aircraft, via flightradar24.com
 
 ## Tools
 
