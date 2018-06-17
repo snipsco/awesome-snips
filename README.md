@@ -69,7 +69,6 @@
 ### Videos
 
 - [The Snips Voice Platform](https://vimeo.com/221451347)
-- [Step-by-step Guide to Creating a Snips Assistant](https://vimeo.com/223255884)
 - [Sonos demo](https://vimeo.com/237742054)
 - [Velux demo](https://www.youtube.com/watch?v=ukkOLqcm2CY)
 - [Parrot Bebop](https://www.youtube.com/watch?v=GNpz7S0B6Gs)
