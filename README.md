@@ -44,10 +44,10 @@
 
 - [Home Assistant component](https://home-assistant.io/components/snips/)
 - [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
-- Alternative text-to-speech:
-  - [Amazon polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
-  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
 - [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
+- Alternative text-to-speech:
+  - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
+  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
 
 ## Resources
 
