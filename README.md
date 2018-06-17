@@ -21,8 +21,6 @@
 
 ### Home Automation
 
-- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
-- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights.
 
 ### Entertainment
@@ -30,6 +28,11 @@
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
+
+### Informational
+- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
+- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
+- [overhead](https://github.com/hcooper/overhead) - What's flying overhead? Retrieve information about nearby aircraft, via flightradar24.com
 
 ## Tools
 
@@ -41,8 +44,10 @@
 
 - [Home Assistant component](https://home-assistant.io/components/snips/)
 - [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
-- [Amazon polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh)
-- [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds) (not needed since [0.56.4](https://snips.gitbook.io/documentation/release-notes#0-56-4) introduced `sound_feedback_enabled_default` in `snips.toml`).
+- [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
+- Alternative text-to-speech:
+  - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
+  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
 
 ## Resources
 
@@ -67,7 +72,6 @@
 ### Videos
 
 - [The Snips Voice Platform](https://vimeo.com/221451347)
-- [Step-by-step Guide to Creating a Snips Assistant](https://vimeo.com/223255884)
 - [Sonos demo](https://vimeo.com/237742054)
 - [Velux demo](https://www.youtube.com/watch?v=ukkOLqcm2CY)
 - [Parrot Bebop](https://www.youtube.com/watch?v=GNpz7S0B6Gs)
