@@ -39,6 +39,7 @@
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
 - [satConnect](https://github.com/Psychokiller1888/satConnect) - To easily add satellites to your main unit
 - [snipsWebAdmin](https://github.com/oziee/snipsWebAdmin) - Web based administrative system for Snips devices
+- [PySnipsBatch](https://github.com/KiboOst/SNIPS-Tips/tree/master/pySnipsBatch) - Test your training sentences in batch rather than one by one on the console
 
 ## Customisations
 
