@@ -49,6 +49,7 @@
 - Alternative text-to-speech:
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
   - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
+  - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
 - [Respeaker leds control](https://github.com/Psychokiller1888/snipsLedControl)
 
