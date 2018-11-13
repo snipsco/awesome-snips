@@ -1,10 +1,10 @@
 # Awesome Snips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [skills](#skills), [customisations](#customisations), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
+> A curated list of awesome [apps](#apps), [customisations](#customisations), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
 
 ### Contents
 
-- [Skills](#skills)
+- [Apps](#apps)
   - [Home Automation](#home-automation)
   - [Entertainment](#entertainment)
 - [Tools](#tools)
@@ -17,7 +17,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Skills
+## Apps
 
 ### Home Automation
 
@@ -30,6 +30,7 @@
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
 
 ### Informational
+
 - [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
 - [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
 - [overhead](https://github.com/hcooper/overhead) - What's flying overhead? Retrieve information about nearby aircraft, via flightradar24.com
@@ -84,9 +85,10 @@
 
 ### Community
 
-- [Discord](https://discord.gg/3939Kqx)
+- [Snips Forum](https://forum.snips.ai)
+- [Snips Makers](https://makers.snips.ai)
 - [Twitter](https://twitter.com/snips)
-- [Github](https://github.com/snipsco/)
+- [Github](https://github.com/snipsco)
 
 ## Contributing
 
