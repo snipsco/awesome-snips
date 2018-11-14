@@ -21,7 +21,7 @@
 
 ### Home Automation
 
-- [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights.
+- [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights
 
 ### Entertainment
 
@@ -31,8 +31,8 @@
 
 ### Informational
 
-- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
-- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
+- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API
+- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts
 - [overhead](https://github.com/hcooper/overhead) - What's flying overhead? Retrieve information about nearby aircraft, via flightradar24.com
 
 ## Tools
@@ -49,11 +49,11 @@
 - [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
 - Alternative text-to-speech:
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
-  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
+  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`
   - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
 - [Respeaker leds control](https://github.com/Psychokiller1888/snipsLedControl)
-- [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite) - a React component providing a microphone that works with Snips.
+- [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite) - a React component providing a microphone that works with Snips
 
 ## Resources
 
