@@ -53,6 +53,7 @@
   - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
 - [Respeaker leds control](https://github.com/Psychokiller1888/snipsLedControl)
+- [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite), a React component providing a microphone that works with Snips.
 
 ## Resources
 
