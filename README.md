@@ -50,9 +50,8 @@
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
   - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
   - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
-  - [SnipsSuperTTS](https://gist.github.com/Psychokiller1888/cf10af3220b5cd6d9c92c709c6af92c2) One script to rule them all. Enjoy Amazon, Google Wavenet, Mycroft mimic all in one script! The script provides file caching and fallback to offline TTS in case of connectivity issues!
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
-- [Snips leds control](https://github.com/Psychokiller1888/snipsLedControl) Automatic script with custom animations to control your leds on Snips. Support Respeaker, matrix voice, neopixels and other!
+- [Respeaker leds control](https://github.com/Psychokiller1888/snipsLedControl)
 
 ## Resources
 
