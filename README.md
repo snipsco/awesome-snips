@@ -1,10 +1,10 @@
 # Awesome Snips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [skills](#skills), [customisations](#customisations), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
+> A curated list of awesome [apps](#apps), [customisations](#customisations), [tools](#tools) and [resources](#resources) for the [Snips Voice Platform](https://www.snips.ai/).
 
 ### Contents
 
-- [Skills](#skills)
+- [Apps](#apps)
   - [Home Automation](#home-automation)
   - [Entertainment](#entertainment)
 - [Tools](#tools)
@@ -17,11 +17,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Skills
+## Apps
 
 ### Home Automation
 
-- [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights.
+- [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights
 
 ### Entertainment
 
@@ -30,8 +30,9 @@
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
 
 ### Informational
-- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API.
-- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts.
+
+- [snipsowm](https://github.com/snipsco/snips-skill-owm) - Weather conditions and forecasts using the OpenWeatherMap API
+- [snipsfakeweather](https://github.com/snipsco/snips-skill-fakeweather) - We got fake news. Now let's get fake weather forecasts
 - [overhead](https://github.com/hcooper/overhead) - What's flying overhead? Retrieve information about nearby aircraft, via flightradar24.com
 
 ## Tools
@@ -48,10 +49,11 @@
 - [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
 - Alternative text-to-speech:
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
-  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
+  - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`
   - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
 - [Respeaker leds control](https://github.com/Psychokiller1888/snipsLedControl)
+- [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite) - a React component providing a microphone that works with Snips
 
 ## Resources
 
@@ -84,9 +86,10 @@
 
 ### Community
 
-- [Discord](https://discord.gg/3939Kqx)
+- [Snips Forum](https://forum.snips.ai)
+- [Snips Makers](https://makers.snips.ai)
 - [Twitter](https://twitter.com/snips)
-- [Github](https://github.com/snipsco/)
+- [Github](https://github.com/snipsco)
 
 ## Contributing
 
