@@ -28,6 +28,8 @@
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
+- [Karaoke](https://medium.com/snips-ai/sing-your-heart-out-with-this-voice-controlled-karaoke-app-for-raspberry-pi-f8727e405f02) - Sing your heart out with this voice-controlled Karaoke App for Raspberry Pi!
+- [TV Remote](https://medium.com/snips-ai/read-this-if-you-want-to-talk-to-your-tv-280e66333726) - Talk to your TV
 
 ### Informational
 
