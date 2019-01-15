@@ -23,6 +23,7 @@
 
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights
 - [Mozilla Gateway add-on](https://github.com/andrenatal/voice-addon/) - Integrates Snips with Mozilla's smart home software.
+- [Home Assistant component](https://home-assistant.io/components/snips/)
 
 ### Entertainment
 
