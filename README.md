@@ -44,7 +44,7 @@
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
 - [satConnect](https://github.com/Psychokiller1888/satConnect) - To easily add satellites to your main unit
 - [PySnipsBatch](https://github.com/KiboOst/SNIPS-Tips/tree/master/pySnipsBatch) - Test your training sentences in batch rather than one by one on the console
-- [SnipsOrbit](https://github.com/jr-k/snips-orbit) - Track, manage, configure satellites and hub remotely with a nice gui
+- [SnipsOrbit](https://github.com/jr-k/snips-orbit) - Track, manage, configure satellites and hub remotely with a nice GUI
 
 ## Customisations
 
@@ -53,8 +53,8 @@
 - Alternative text-to-speech:
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
   - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
-  - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
-  - [SnipsSuperTTS](https://gist.github.com/Psychokiller1888/cf10af3220b5cd6d9c92c709c6af92c2) One script to rule them all. Enjoy Amazon, Google Wavenet, Mycroft Mimic all in one script! The script provides file caching and fallback to offline TTS in case of connectivity issues!
+  - [Google WaveNet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
+  - [SnipsSuperTTS](https://gist.github.com/Psychokiller1888/cf10af3220b5cd6d9c92c709c6af92c2) One script to rule them all. Enjoy Amazon, Google WaveNet, Mycroft Mimic all in one script! The script provides file caching and fallback to offline TTS in case of connectivity issues!
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
 - [Snips leds control](https://github.com/Psychokiller1888/snipsLedControl) Automatic script with custom animations to control your leds on Snips. Support ReSpeaker, MATRIX Voice, NeoPixels and other!
 - [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite) - a React component providing a microphone that works with Snips
@@ -78,7 +78,7 @@
 - [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
 - [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
 - [Sonos Invader](https://github.com/Psychokiller1888/SnipsSonosInvader) - Use your existing sound hardware to have the best Snips audio quality while keeping offline and protecting your privacy
-- [SamLess train and download](https://github.com/Psychokiller1888/snipsSamless) - List, train and download your assistants through python code
+- [SamLess train and download](https://github.com/Psychokiller1888/snipsSamless) - List, train and download your assistants through Python code
 
 ### Videos
 
