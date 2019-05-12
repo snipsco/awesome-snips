@@ -39,13 +39,11 @@
 
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
 - [satConnect](https://github.com/Psychokiller1888/satConnect) - To easily add satellites to your main unit
-- [snipsWebAdmin](https://github.com/oziee/snipsWebAdmin) - Web based administrative system for Snips devices
 - [PySnipsBatch](https://github.com/KiboOst/SNIPS-Tips/tree/master/pySnipsBatch) - Test your training sentences in batch rather than one by one on the console
 
 ## Customisations
 
 - [Home Assistant component](https://home-assistant.io/components/snips/)
-- [Custom hotwords using Snowboy](https://github.com/oziee/hotword)
 - [Enable feedback sounds at boot](https://github.com/uchagani/snips-enable-sounds)
 - Alternative text-to-speech:
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
@@ -75,6 +73,7 @@
 - [Snips Sonos](https://medium.com/snips-ai/building-a-voice-controlled-home-sound-system-using-snips-and-sonos-2aaf16523ce9) - Building a voice-controlled home sound system using Snips and Sonos
 - [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
 - [Sonos Invader](https://github.com/Psychokiller1888/SnipsSonosInvader) - Use your existing sound hardware to have the best Snips audio quality while keeping offline and protecting your privacy
+- [SamLess train and download](https://github.com/Psychokiller1888/snipsSamless) - List, train and download your assistants through python code
 
 ### Videos
 
