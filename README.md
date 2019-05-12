@@ -22,12 +22,16 @@
 ### Home Automation
 
 - [snipshue](https://github.com/snipsco/snips-skill-hue) - Control for Philips Hue lights
+- [Mozilla Gateway add-on](https://github.com/andrenatal/voice-addon/) - Integrates Snips with Mozilla's smart home software.
+- [Home Assistant component](https://home-assistant.io/components/snips/)
 
 ### Entertainment
 
 - [snipssonos](https://github.com/snipsco/snips-skill-sonos) - Stream Spotify music on a Sonos system
 - [mopidy-mqtt](https://github.com/acolytec3/mopidy-mqtt) - Play music from Spotify, Soundcloud, Google Play and more using Mopidy
 - [Bebop](https://github.com/trancept/snips_bebop/) - Voice controlled Parrot Bebop drone
+- [Karaoke](https://medium.com/snips-ai/sing-your-heart-out-with-this-voice-controlled-karaoke-app-for-raspberry-pi-f8727e405f02) - Sing your heart out with this voice-controlled Karaoke App for Raspberry Pi!
+- [TV Remote](https://medium.com/snips-ai/read-this-if-you-want-to-talk-to-your-tv-280e66333726) - Talk to your TV
 
 ### Informational
 
@@ -40,6 +44,7 @@
 - [snipsmanager](https://github.com/snipsco/snipsmanager) - The Snips Manager
 - [satConnect](https://github.com/Psychokiller1888/satConnect) - To easily add satellites to your main unit
 - [PySnipsBatch](https://github.com/KiboOst/SNIPS-Tips/tree/master/pySnipsBatch) - Test your training sentences in batch rather than one by one on the console
+- [SnipsOrbit](https://github.com/jr-k/snips-orbit) - Track, manage, configure satellites and hub remotely with a nice gui
 
 ## Customisations
 
@@ -49,9 +54,9 @@
   - [Amazon Polly TTS](https://github.com/tschmidty69/homeassistant-config/blob/master/snips/jarvis_says.sh) using a bash script.
   - [Amazon Polly TTS](https://github.com/hcooper/snips-tts-polly) as a systemd service, replacing `snips-tts`.
   - [Google Wavenet TTS](https://gist.github.com/Psychokiller1888/7c4783c645d0a580aa595e7823bf3da1) using a shell script for snips.toml
-  - [SnipsSuperTTS](https://gist.github.com/Psychokiller1888/cf10af3220b5cd6d9c92c709c6af92c2) One script to rule them all. Enjoy Amazon, Google Wavenet, Mycroft mimic all in one script! The script provides file caching and fallback to offline TTS in case of connectivity issues!
+  - [SnipsSuperTTS](https://gist.github.com/Psychokiller1888/cf10af3220b5cd6d9c92c709c6af92c2) One script to rule them all. Enjoy Amazon, Google Wavenet, Mycroft Mimic all in one script! The script provides file caching and fallback to offline TTS in case of connectivity issues!
 - [Custom hotwords](https://github.com/Psychokiller1888/snips-custom-hotword)
-- [Snips leds control](https://github.com/Psychokiller1888/snipsLedControl) Automatic script with custom animations to control your leds on Snips. Support Respeaker, matrix voice, neopixels and other!
+- [Snips leds control](https://github.com/Psychokiller1888/snipsLedControl) Automatic script with custom animations to control your leds on Snips. Support ReSpeaker, MATRIX Voice, NeoPixels and other!
 - [Snips React Satellite](https://github.com/syntithenai/opensnips/tree/master/snips-react-satellite) - a React component providing a microphone that works with Snips
 
 ## Resources
