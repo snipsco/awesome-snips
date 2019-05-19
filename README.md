@@ -22,6 +22,7 @@
 ### Home Automation
 
 - [snipshue](https://github.com/snipsco/snips-skill-hue-pro) - Control for Philips Hue lights
+- [Yeelight](https://github.com/thomas-bouvier/snips-action-yeelight) - Control for Xiaomi Yeelight lights
 - [Mozilla Gateway add-on](https://github.com/andrenatal/voice-addon/) - Integrates Snips with Mozilla's smart home software
 - [Home Assistant component](https://home-assistant.io/components/snips/)
 
