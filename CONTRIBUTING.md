@@ -24,7 +24,7 @@ It's recommended that you use [gitmoji](https://gitmoji.carloscuesta.me/) when c
 
 |Name, Use|Emoji|Example
 |---|---|---
-|`:heavy-plus-sign`, Adding items|➕|`git commit -m ":heavy-plus-sign: Added motionEye OS to the OS list"`
-|`:heavy-minus-sign`, Removing items|➖| `git commit -m ":heavy-minus-sign Removed motionEye OS from the OS list"`
-|`:truck`, Moving Items|🚚| `git commit -m ":truck: Moved motionEye OS from Projects to OS's"`
-|`:pencil2`, Fixing typos|✏️| `git commit -m ":pencil2: Fixed typo for Raspbian Jessie Lite"`
+|`:heavy_plus_sign:`, Adding items|➕|`git commit -m ":heavy_plus_sign: Added motionEye OS to the OS list"`
+|`:heavy_minus_sign:`, Removing items|➖| `git commit -m ":heavy_minus_sign: Removed motionEye OS from the OS list"`
+|`:truck:`, Moving Items|🚚| `git commit -m ":truck: Moved motionEye OS from Projects to OS's"`
+|`:pencil2:`, Fixing typos|✏️| `git commit -m ":pencil2: Fixed typo for Raspbian Jessie Lite"`
