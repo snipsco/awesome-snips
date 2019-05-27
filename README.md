@@ -81,6 +81,7 @@
 - [Home Assistant](https://medium.com/snips-ai/integrating-snips-with-home-assistant-314723645c77) - Integrating Snips with Home Assistant
 - [Sonos Invader](https://github.com/Psychokiller1888/SnipsSonosInvader) - Use your existing sound hardware to have the best Snips audio quality while keeping offline and protecting your privacy
 - [SamLess train and download](https://github.com/Psychokiller1888/snipsSamless) - List, train and download your assistants through Python code
+- [Solution for hotword multidetection](https://laurentchervet.wordpress.com/2019/03/06/satellites-and-the-multidetection-hell/) - A solution to avoid the annoying multi satellite listening on the same hotword trigger
 
 ### Videos
 
