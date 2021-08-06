@@ -64,7 +64,7 @@
 ## Resources
 
 ### Community Projects
-- [Project Alice](https://github.com/project-alice-powered-by-snips) Entirely built around Snips, Project Alice offers a complete framework for devs that eliminates the needs to care about the bases and focus only on the skills you want to add to your assistant. It integrates basic fallbacks and workarounds for the everyday problems leaving you the choice to remain totally offline or use some online counterparts.
+- [Project Alice](https://github.com/project-alice-assistant) Entirely built around Snips, Project Alice offers a complete framework for devs that eliminates the needs to care about the bases and focus only on the skills you want to add to your assistant. It integrates basic fallbacks and workarounds for the everyday problems leaving you the choice to remain totally offline or use some online counterparts.
 - Project Alice pre release and legacy guides:
   - [Velux control](https://laurentchervet.wordpress.com/2018/02/11/project-alice-raspberry-voice-controlled-velux/): Raspberry voice controlled Velux ([source code](https://github.com/Psychokiller1888/snipsvelux))
   - [Where is my Phone?](https://laurentchervet.wordpress.com/2018/03/01/alice-wheres-my-phone/): Ask your assistant to find your phone, using [IFTTT](https://ifttt.com)
